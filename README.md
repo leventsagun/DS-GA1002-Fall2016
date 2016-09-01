@@ -10,3 +10,4 @@ http://blog.plot.ly/post/123617968702/online-dashboards-eight-helpful-tips-you-s
 
 http://help.plot.ly/getting-data/
 
+https://github.com/caesar0301/awesome-public-datasets
